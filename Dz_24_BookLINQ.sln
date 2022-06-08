@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz_24_BookLINQ", "Dz_24_BookLINQ\Dz_24_BookLINQ.csproj", "{AB8EE7A6-C465-47C4-8290-BFD84B9F7B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8EE7A6-C465-47C4-8290-BFD84B9F7B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8EE7A6-C465-47C4-8290-BFD84B9F7B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8EE7A6-C465-47C4-8290-BFD84B9F7B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8EE7A6-C465-47C4-8290-BFD84B9F7B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B358FCBD-EE28-4462-92F1-6218F70E4F40}
+	EndGlobalSection
+EndGlobal
